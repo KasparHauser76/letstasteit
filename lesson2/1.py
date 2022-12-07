@@ -1,4 +1,4 @@
-num1 = float(input('Pleace input some number: '))
+num1 = float(input('Pleace input some number50: '))
 num2 = float(input('Pleace input another some number: '))
 sum = num1+num2
 addition = 'addition %s'
