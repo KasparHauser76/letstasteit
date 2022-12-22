@@ -1,4 +1,7 @@
 import math
+
+# решение квадратного вравнения
+
 print("Введите коэффициенты для уравнения ax^2 + bx + c = 0:")
 a = float(input("a = "))
 b = float(input("b = "))

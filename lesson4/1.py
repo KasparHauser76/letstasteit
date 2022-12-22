@@ -1,4 +1,6 @@
 from random import randint
+
+# сортировка методом пузырька
  
 N = 10
 a = []

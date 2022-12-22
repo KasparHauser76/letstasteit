@@ -1,3 +1,5 @@
+# движение по кооржинатам x, y, вправо, влево, вверх и вниз.
+
 print("Your position 0:0. Pleace, enter where you want to go(integer):")
 x = 0
 y = 0

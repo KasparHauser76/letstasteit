@@ -1,4 +1,7 @@
 from random import *
+
+# сравнение двух случайных наборов чисел
+
 print('have a two random sequences: ')
 seq1 = [randint(1,101) for x in range(0,10)]
 seq2 = [randint(1,101) for x in range(0,10)]
